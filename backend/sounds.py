@@ -89,7 +89,6 @@ class Sounds(RaspIotRenderer):
     MODULE_PRICE = 0
     MODULE_DEPS = []
     MODULE_DESCRIPTION = u'Plays sounds or speech text you want'
-    MODULE_LOCKED = False
     MODULE_TAGS = [u'audio', u'sound', u'music', u'speech']
     MODULE_COUNTRY = None
     MODULE_URLINFO = None
